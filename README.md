@@ -100,5 +100,5 @@ Potential enhancements for this project include:
 ## Author
 
 **Amos Nyangiri**  
-BSc Statistics and Information Technology — The Co-operative University of Kenya  
+BSc Statistics and Information Technology 
 📧 amosnyangiri360@gmail.com
