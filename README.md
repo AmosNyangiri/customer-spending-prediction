@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes customer spending behavior using Multiple Linear Regression (MLR). The study quantifies the relationship between customer demographic and financial characteristics — such as age, loyalty years and preferred spending category — and their spending scores on a scale of 1 to 100.
+This project analyzes customer spending behavior using Multiple Linear Regression (MLR). The study quantifies the relationship between customer demographic, financial and behavioural characteristics — such as age, loyalty years and preferred spending category and their spending scores on a scale of 1 to 100.
 
 ---
 
@@ -39,7 +39,7 @@ This project analyzes customer spending behavior using Multiple Linear Regressio
 
 ## Methodology
 
-1. **Data Pre-processing** — Missing value imputation, dummy encoding of categorical variables, standardization of continuous variables and outlier treatment
+1. **Data Pre-processing** — dummy encoding of categorical variables, standardization of continuous variables and outlier treatment
 2. **Exploratory Data Analysis (EDA)** — Descriptive statistics, correlation heatmap, distribution plots, scatterplots and box plots
 3. **Model Development** — OLS Multiple Linear Regression (full model and reduced model)
 4. **Assumption Diagnostics:**
@@ -71,6 +71,29 @@ This project analyzes customer spending behavior using Multiple Linear Regressio
 
 - **Language:** Python
 - **Libraries:** pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn
+- **Jupyter Notebook**
+
+---
+## Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Regression Modeling
+- Model Evaluation
+- Data Visualization
+- Statistical Analysis
+- Business Insight Generation
+
+## Future Improvements
+
+Potential enhancements for this project include:
+
+- Testing additional regression algorithms
+- Hyperparameter tuning
+- Cross-validation techniques
+- Deployment as a web application
+- Integration with business intelligence dashboards
 
 ---
 
