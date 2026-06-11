@@ -62,8 +62,8 @@ This project analyzes customer spending behavior using Multiple Linear Regressio
 | RMSE | 8.880 | 8.842 |
 
 - The reduced model explains **91.7%** of the variation in spending scores
-- **Loyalty years**, **age group** and **preferred spending category** were statistically significant predictors
-- **Gender**, **annual income** and **credit score** were not statistically significant
+- **Loyalty years**, **age group** and **preferred spending category** were statistically significant predictors 
+- **Gender**, **annual income** and **credit score** were not statistically significant in the first model hence development of a second reduced model with only significant variables
 
 ---
 
